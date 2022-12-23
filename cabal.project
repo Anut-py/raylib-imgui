@@ -1,0 +1,7 @@
+packages: *.cabal
+
+package dear-imgui
+  flags: -sdl +glfw +opengl3
+
+package raylib-imgui
+  flags: +example
