@@ -7,7 +7,7 @@ description:
 
 category:           graphics
 
--- bug-reports:
+bug-reports:        https://github.com/Anut-py/raylib-imgui/issues
 license:            Apache-2.0
 license-file:       LICENSE
 author:             Anut
@@ -27,7 +27,6 @@ flag example
   default:     False
   manual:      True
 
--- NOTE: This requires that SDL be installed
 executable example
   hs-source-dirs:   example
   default-language: Haskell2010
