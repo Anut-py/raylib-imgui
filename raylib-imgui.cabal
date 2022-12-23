@@ -9,6 +9,7 @@ category:           graphics
 
 -- bug-reports:
 license:            Apache-2.0
+license-file:       LICENSE
 author:             Anut
 maintainer:         Anut
 extra-doc-files:    README.md
